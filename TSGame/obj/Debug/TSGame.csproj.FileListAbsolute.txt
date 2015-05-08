@@ -1,0 +1,6 @@
+c:\users\sammini\documents\visual studio 2015\Projects\TSGame\TSGame\bin\TSGame.dll.config
+c:\users\sammini\documents\visual studio 2015\Projects\TSGame\TSGame\bin\TSGame.dll
+c:\users\sammini\documents\visual studio 2015\Projects\TSGame\TSGame\bin\TSGame.pdb
+c:\users\sammini\documents\visual studio 2015\Projects\TSGame\TSGame\obj\Debug\TSGame.csprojResolveAssemblyReference.cache
+c:\users\sammini\documents\visual studio 2015\Projects\TSGame\TSGame\obj\Debug\TSGame.dll
+c:\users\sammini\documents\visual studio 2015\Projects\TSGame\TSGame\obj\Debug\TSGame.pdb
